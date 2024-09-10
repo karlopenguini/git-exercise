@@ -32,3 +32,7 @@ Steve solved the bug but made another.
 # Chapter 8: The Bigger bug
 
 The fix for the bug, was even bigger. And the company lost 1 billion dollars!!!
+
+# Chapter 9: Goodbye Steve?
+Steve is then called to the boss' office again. The boss doesn't know whether
+to be impressed or be saddened by the bug that created the 1 billion dollars loss.
