@@ -25,3 +25,6 @@ that the team needed to replicate the bug first.
 
 Steve found the bug, thanks to careful replication.
 
+# Chapter 7: Another problem arises..
+
+Steve solved the bug but made another.
