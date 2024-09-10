@@ -36,3 +36,7 @@ The fix for the bug, was even bigger. And the company lost 1 billion dollars!!!
 # Chapter 9: Goodbye Steve?
 Steve is then called to the boss' office again. The boss doesn't know whether
 to be impressed or be saddened by the bug that created the 1 billion dollars loss.
+
+# Chapter 10: Steve
+*Flashback to when Steve was still a junior developer* Steve often creates a bug because the company's
+existing codes lack documentation and comments.
