@@ -28,3 +28,7 @@ Steve found the bug, thanks to careful replication.
 # Chapter 7: Another problem arises..
 
 Steve solved the bug but made another.
+
+# Chapter 8: Isang Kaibigan
+
+Si luke ay isang kaibigan.
