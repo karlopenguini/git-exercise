@@ -45,4 +45,4 @@ existing codes lack documentation and comments.
 It was then during the flashback that it was known to us that some of Steve's variables are referencing a null pointer.
 
 # Chapter 12: The End
-Bye steve.
+Bye steve. Naging bug nalang din si steve sa next life niya.
