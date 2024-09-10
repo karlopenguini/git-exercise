@@ -40,3 +40,6 @@ to be impressed or be saddened by the bug that created the 1 billion dollars los
 # Chapter 10: Steve
 *Flashback to when Steve was still a junior developer* Steve often creates a bug because the company's
 existing codes lack documentation and comments.
+
+# Chapter 11: Steve's Bad Habit
+It was then during the flashback that it was known to us that some of Steve's variables are referencing a null pointer.
