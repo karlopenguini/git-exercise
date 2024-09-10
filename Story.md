@@ -29,6 +29,6 @@ Steve found the bug, thanks to careful replication.
 
 Steve solved the bug but made another.
 
-# Chapter 8: Isang Kaibigan
+# Chapter 8: The Bigger bug
 
-Si luke ay isang kaibigan.
+The fix for the bug, was even bigger. And the company lost 1 billion dollars!!!
