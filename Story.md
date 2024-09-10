@@ -43,3 +43,6 @@ existing codes lack documentation and comments.
 
 # Chapter 11: Steve's Bad Habit
 It was then during the flashback that it was known to us that some of Steve's variables are referencing a null pointer.
+
+# Chapter 12: The End
+Bye steve.
